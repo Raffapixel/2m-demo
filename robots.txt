@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /
+
+Host: https://raffapixel.github.io/2m-demo
+Sitemap: https://raffapixel.github.io/2m-demo/sitemap.xml
